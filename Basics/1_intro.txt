@@ -1,0 +1,51 @@
+About GO lang : 
+A procedural programming language is a type of programming language that uses procedures or functions to perform 
+tasks and organize code in a sequential and modular manner.
+Go is a statically typed (type declare before use) , concurrent, and garbage-collected programming language created at Google in 2009
+Go is known for its support for concurrency, which is the ability to run multiple tasks simultaneously. 
+Concurrency is achieved in Go through the use of Goroutines and Channels, which allow you to write code that 
+can run multiple operations at the same time
+
+Here are some key features of Go:
+1) Simplicity: Go is designed to be easy to learn and use. Its syntax is simple and straightforward, making it a good choice for beginners and experienced programmers alike.
+2) Concurrency: Go has built-in support for concurrency, allowing developers to write efficient and scalable code for multicore and distributed systems.
+3) Garbage collection: Go has automatic memory management, which frees developers from having to worry about memory allocation and deallocation.
+4) Fast compile times: Go has a fast compiler, which makes it easy to iterate quickly during development.
+5) Cross-platform support: Go can be compiled to run on many different platforms, including Windows, Linux, and macOS.
+6) Strong typing: Go is a statically typed language, which helps catch errors at compile time rather than at runtime.
+7) Go has a large and growing community of developers and is used by many well-known companies, including Google, Uber, and Dropbox.
+
+Here are some important points to keep in mind about Go programming language:
+1) Go is a statically typed language, which means that the type of a variable must be declared before it can be used.
+2) Go has a built-in garbage collector that automatically frees up memory when it is no longer needed.
+3) Go has strong support for concurrency, allowing developers to write efficient and scalable code for multicore and distributed systems.
+4) Go has a minimalist syntax that is easy to learn and read.
+5) Go has a fast compiler that generates code that is optimized for modern hardware architectures.
+6) Go has a standard library that provides support for a wide range of functionality, including networking, encryption, and file handling.
+7) Go has a growing community of developers and a vibrant ecosystem of third-party packages and tools.
+8) Go is used by many well-known companies for building large-scale distributed systems and high-performance applications.
+Overall, Go is a powerful and efficient programming language that is well-suited for building modern applications and distributed systems. 
+Its strong support for concurrency and minimalist syntax make it an attractive choice for developers who want to build scalable and efficient applications.
+
+*Some important points*
+1) Compiled / Interpreted -> Go is compiled , no jdm required
+2) Go tool can run file directly without VM
+3) executables are different
+
+1) Use in system apps to web apps
+2) Mindset is different from other language 
+3) Object Oriented -> Yes or no 
+4) Understand by just looking at the code 
+5) Lot is miss in language 
+6) no try catch , lexer is there
+
+
+Lexer : 
+Officially by Grammar use ';'
+But lexer can do it simple
+Lexer usually not put after )}
+
+Types :
+1) Case Sensitive
+2) Everything is Type
+3) String, Bool , Floating , Complex , Integer
